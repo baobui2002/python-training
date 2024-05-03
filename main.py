@@ -1,1 +1,2 @@
-print(100)
+for x in range(10):
+    print(x**2)
